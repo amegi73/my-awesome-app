@@ -60,3 +60,7 @@ ul {
 p {
   font-size: small;
 }
+.footer {
+  text-align: center;
+  margin: 0, auto;
+}
